@@ -1,0 +1,121 @@
+html{
+  font-size: 70%;
+}
+
+header{
+width: 100%;
+}
+
+body{
+  background-image: url("../images/background-pattern.png");
+  font-family: Georgia, Cambria, "Times New Roman",serif;
+  font-size: 100%;
+}
+
+nav ul{
+    display: flex;
+    padding: 0 2em;
+    list-style: none;
+}
+
+nav ul li{
+    padding: 0.5em;
+    font-size: 1.2rem;
+}
+
+.nav1 ul{
+  justify-content: flex-end;
+  background-color: #283c4c;
+}
+
+.nav2{
+  background-color: #dce4ec;
+  padding-left: 3em;
+}
+
+h1{
+  background-image: url("../images/header-background.png");
+}
+
+article h3{
+  color: white;
+}
+
+.profile{
+    background-color: white;
+    padding: 1.5em;
+    margin: 0 9em 1.5em 9em;
+    text-align: center;
+}
+
+.profile img{
+  padding: 0.4em;
+  width: 80px;
+  border: solid 1.0px #999999;
+}
+
+.secciones{
+  background-color: white;
+  margin: 0 9em 1.5em 9em;
+  border: 1px solid black;
+}
+
+.secciones h3{
+  background-image: url("../images/header-background.png");
+  padding: 0.4em;
+}
+
+.secciones div ul li{
+  list-style: none;
+  display: inline;
+}
+
+.secciones figure img{
+  max-width: 70%;
+}
+
+.seccionesu{
+    background-color: #283c4c;
+    padding: 0.4em;
+}
+
+.seccionesu ul{
+    list-style: none;
+    display: flex;
+}
+
+.seccionesu ul li{
+    text-align: auto;
+    padding: 0.2em 1em;
+    background-color: #eaeced;
+    margin-left: 1em;
+    justify-content: center;
+}
+
+.secciones ul li img{
+    padding-right: 1em;
+}
+
+.details em{
+  padding: 0.3em;
+  font-size: 1rem;
+  color: #949ea6;
+  font-style: italic;
+}
+
+a:link{
+  color: #4CB7F9;
+}
+
+ footer {
+  color: white;
+  background-color: #24344c;
+  margin: 0 9em 1.5em 9em;
+  padding: 0.25em;
+}
+
+footer p a{
+  color: #3884a7;
+  font-size: 1em;
+  padding: 0.3em;
+}
