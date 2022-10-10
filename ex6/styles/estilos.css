@@ -86,14 +86,15 @@ article h3{
 
 .seccionesu ul li{
     text-align: auto;
-    padding: 0.2em 1em;
+    padding: 0.1em 0.6em;
     background-color: #eaeced;
     margin-left: 1em;
     justify-content: center;
+    border-radius: 2px;
 }
 
 .secciones ul li img{
-    padding-right: 1em;
+    padding-right: 0.6em;
 }
 
 .details em{
