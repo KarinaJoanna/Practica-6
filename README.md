@@ -37,4 +37,4 @@ Estas son algunos de los programas que se utilizaron y sus extensiones.
 
 Los resultados del ejercicio se muestra en la carpeta de resultados:
 
-[(https://github.com/KarinaJoanna/Practica-6/tree/main/resultados)]
+(https://github.com/KarinaJoanna/Practica-6/tree/main/resultados)
