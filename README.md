@@ -3,7 +3,7 @@
 
 ### Actividad 7
 
-Este proyecto actualiza el proyecto existente (https://github.com/KarinaJoanna/Practica-5/tree/main/practica2) para añadir algunas mejoras estilísticas visuales con CSS.
+Este proyecto actualiza la página HTML de CRM que comenzó en la práctica 4 (https://github.com/KarinaJoanna/Practica-4) para añadir algo de estilo visual y darle un aspecto profesional.
 
 ### Built With
 
@@ -37,4 +37,4 @@ Estas son algunos de los programas que se utilizaron y sus extensiones.
 
 Los resultados del ejercicio se muestra en la carpeta de resultados:
 
-[(https://github.com/KarinaJoanna/Practica-5/tree/main/resultados)]
+[(https://github.com/KarinaJoanna/Practica-6/tree/main/resultados)]
